@@ -2,7 +2,7 @@
 # I'm building a blockchain node 
 A BLOCKCHAIN NODE with blocks, transactions, and consensus mechanisms work together to form a secure, tamper‑resistant ledger. 
 The project evolves step by step, starting from a simple append‑only chain and gradually adding realistic blockchain features.
-
+# Haiylu Kibret 
 # Features Implemented
 Block structure: Each block contains an index, timestamp, transactions, previous hash, and its own hash.
 
